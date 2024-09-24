@@ -6,7 +6,7 @@ labels: 'bug'
 assignees: ''
 ---
 
-Checklist:
+Checklist: <!--You MUST either [x] check or [ ] ~strike through~ every item.-->
 
 * [ ] I've included a description of the bug.
 * [ ] I've included steps to reproduce the bug.

@@ -6,7 +6,7 @@ labels: 'enhancement'
 assignees: ''
 ---
 
-Checklist:
+Checklist:  <!--You MUST either [x] check or [ ] ~strike through~ every item.-->
 
 - [ ] I've included a description of the feature.
 - [ ] I've included a motivation for the feature.
