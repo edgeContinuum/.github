@@ -14,11 +14,11 @@ Checklist: <!--You MUST either [x] check or [ ] ~strike through~ every item.-->
 <!--
 Briefly describe what this pull request does, and how it is covered by tests.
 
-Link to the issue describing the bug that you're fixing.
+Link to the issue describing the feature/bug that you're fixing.
 
-If there is not yet an issue, please open a new issue and then link to that issue in your pull request.
+If there is not yet an issue, please open a new feature/bug issue and then link to that issue in your pull request.
 
-Please use the following syntax: Fixes #<issue number>
+Please use the following syntax: Fixes #3456
 -->
 
 Fixes #
