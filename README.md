@@ -1,2 +1,2 @@
 # .github
-Standard github health files
+Health files for the @edgeContinuum organization on GitHub.
