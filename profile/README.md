@@ -9,6 +9,6 @@ Driven by our collective expertise, we have embarked on a new venture—launchin
 
 We believe that Edge Computing will experience significant growth in the coming years, particularly for applications that demand high performance (low latency, minimal jitter) or that aim to reduce operational costs. There is a gap in the market for software solutions aimed to manage applications on the edge, across a broad geography. 
 
-Our edge computing platform focused on scalability, hypervisor agnosticism, convergence, flexibility, and efficiency. Additionally, we are incorporating standard interfaces for integration with 5G networks and ensuring compatibility with various virtualization technologies, including virtual machines, Kubernetes clusters, among others.
+Our edge computing platform focused on scalability, hypervisor agnosticism, convergence, flexibility, and efficiency. Additionally, we are incorporating standard interfaces for integration with 5G networks and ensuring compatibility with various virtualization technologies, including virtual machines, containers, among others.
 
 Find out more about us on our [website](https://edgecontinuum.com) or [LinkedIn](https://www.linkedin.com/company/edgecontinuum).
