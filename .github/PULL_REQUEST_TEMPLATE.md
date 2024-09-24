@@ -1,6 +1,6 @@
 Checklist: <!--You MUST either [x] check or [ ] ~strike through~ every item.-->
 
-- [ ] I've understood the requirements
+- [ ] I've understood the requirements.
 - [ ] I've included a description of the changes.
 - [ ] I've linked a PR or a Issue that this PR fixes.
 
