@@ -4,8 +4,16 @@
 
 ## About us
 
-At edgeContinuum, we're building the future of edge computing. Our platform is focused on scalability, hypervisor-agnostic infrastructure, and converged solutions that prioritize flexibility and efficiency. We provide integration with 5G networks and expose GSMA Open Gateway APIs , ensuring full compatibility with a broad range of virtualization technologies, including virtual machines, containers, and more.
+At **edgeContinuum**, we bridge the gap between public cloud agility and private infrastructure control. Our platform unifies your on-premise, edge, and private clouds under a single control plane, delivering a truly cloud-like experience.
 
-This platfom was made possible thanks to the broad research and developments carried out at the University of Vigo, and the financial support from the Government of Galicia.
+🚀 **For Operations Teams**
+Accelerate time-to-value by provisioning managed services like Kubernetes, DBaaS, and VMs on demand.
 
-Find out more about us on our [website](https://edgecontinuum.com) or [LinkedIn](https://www.linkedin.com/company/edgecontinuum).
+💻 **For Development Teams**
+Automate the complete application lifecycle for faster, more reliable deployments.
+
+---
+
+**Find out more:** [Our Website](https://edgecontinuum.com) │ [LinkedIn](https://www.linkedin.com/company/edgecontinuum)
+
+---
