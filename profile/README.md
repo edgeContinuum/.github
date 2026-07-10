@@ -4,7 +4,7 @@
 
 **edgeContinuum** is a sovereign cloud platform that brings the public cloud experience to infrastructure you control. Offer **managed Kubernetes, managed databases, and virtual machines** to your clients, or give your teams cloud-like self-service on your own hardware — **one platform, one API**, on infrastructure you already run.
 
-[**Website**](https://edgecontinuum.com) · [**Product**](https://edgecontinuum.com/product) · [**Console**](https://console.edgecontinuum.com) · [**Docs**](https://docs.edgecontinuum.com) · [**LinkedIn**](https://www.linkedin.com/company/edgecontinuum)
+[**Website**](https://edgecontinuum.com) · [**Product**](https://edgecontinuum.com/product) · [**Docs**](https://docs.edgecontinuum.com) · [**LinkedIn**](https://www.linkedin.com/company/edgecontinuum)
 
 ---
 
